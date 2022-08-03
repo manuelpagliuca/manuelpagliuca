@@ -1,4 +1,14 @@
 ### Hi there 👋 (WIP)
+Hi buddy, welcome to my GitHub profile 😊
+
+```cpp
+#include <cstdlib>
+
+int main() {
+    std::cout<< "Hello world! I'm currently a WIP!" << std::endl;
+    return 1;
+}
+```
 
 <!--
 **manuelpagliuca/manuelpagliuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
