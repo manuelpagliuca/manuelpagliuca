@@ -5,7 +5,7 @@ Hi buddy, welcome to my GitHub profile 😊
 #include <iostream>
 
 int main() {
-    std::cout<< "Hello world! I'm currently a WIP!" << std::endl;
+    std::cout << "Hello world! I'm currently a WIP!" << std::endl;
     return 1;
 }
 ```
