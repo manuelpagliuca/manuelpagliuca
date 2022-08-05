@@ -10,6 +10,14 @@ int main() {
 }
 ```
 
+At the moment I'm a studend of Computer Science (Master's degree) at the University of Milan. I'm expanding my
+knowledge in the following areas:
+* Computer graphics
+* Distributed Systems
+* Parallel and distributed algorithms
+* Heuristic algorithms
+* Game development
+
 <!--
 **manuelpagliuca/manuelpagliuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
