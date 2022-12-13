@@ -7,15 +7,15 @@
 
 - 📚 I'm currently studying for my master's degree at [university of milan](https://www.unimi.it/en/education/computer-science-master)
 
-- 👨‍💻 All of my projects are available at [manuelpagliuca.com/projects](https://www.manuelpagliuca.com/#projects)
+- 👨‍💻 All of my projects are available at [manuelpagliuca.xyz/projects](https://www.manuelpagliuca.xyz/#projects)
 
-- 🌍 I got a website at [manuelpagliuca.com](https://www.manuelpagliuca.com)
+- 🌍 I got a website at [manuelpagliuca.xyz](https://www.manuelpagliuca.xyz)
 
 - 💬 Ask me about **anything you think I can know!**
 
 - 📫 How to reach me **pagliuca.manuel@gmail.com**
 
-- 📄 Know about my experiences download my [resumé](https://www.manuelpagliuca.com/uploads/resume.pdf)
+- 📄 Know about my experiences download my [resumé](https://www.manuelpagliuca.xyz/uploads/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
