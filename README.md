@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manuel!</h1>
 <h3 align="center">A passionate computer science student from Italy</h3>
 
-- 🔭 I’m currently working on **a project for distributed systems course**
+- 🔭 I’m currently working on **a project for affective computing and natural interaction**
 
-- 🌱 I’m currently learning **distributed systems, heuristic algorithms, real-time graphics, various graphical API (OpenGL, Vulkan and soon DirectX).**
+- 🌱 I’m currently learning **distributed systems, heuristic algorithms, real-time graphics, various graphical API (OpenGL, Vulkan and soon DirectX) and artificial intelligence.**
 
 - 📚 I'm currently studying for my master's degree at [university of milan](https://www.unimi.it/en/education/computer-science-master)
 
