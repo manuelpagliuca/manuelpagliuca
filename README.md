@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a project for affective computing and natural interaction**
 
-- 🌱 I’m currently learning **distributed systems, heuristic algorithms, real-time graphics, various graphical API (OpenGL, Vulkan and soon DirectX) and artificial intelligence.**
+- 🌱 I’m currently learning **affective computing, natural interaction and image processing.**
 
 - 📚 I'm currently studying for my master's degree at [university of milan](https://www.unimi.it/en/education/computer-science-master)
 
