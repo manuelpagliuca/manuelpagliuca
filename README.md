@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel!</h1>
 <h3 align="center">A passionate computer science student from Italy</h3>
 
-- 🔭 I’m currently working on **my master's thesis.**
+- 🔭 I’m currently working on **my master's thesis**
 
 - 🌱 I’m currently learning **computer graphics**
 
