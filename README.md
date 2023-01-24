@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manuel!</h1>
 <h3 align="center">A passionate computer science student from Italy</h3>
 
-- 🔭 I’m currently working on **a project for affective computing and natural interaction**
+- 🔭 I’m currently working on **my master's thesis.**
 
-- 🌱 I’m currently learning **affective computing, natural interaction and image processing.**
+- 🌱 I’m currently learning **computer graphics**
+
+- 👨🏻‍💻 I’m currently working as **software engineer**
 
 - 📚 I'm currently studying for my master's degree at [university of milan](https://www.unimi.it/en/education/computer-science-master)
 
