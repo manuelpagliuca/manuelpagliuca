@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my master's thesis**
 
-- 🌱 I’m currently learning **computer graphics**
+- 🌱 I’m currently learning **JavaScript, Angular, GraphQL and computer graphics topics (displacement mapping, ...)**
 
 - 👨🏻‍💻 I’m currently working as **software engineer**
 
