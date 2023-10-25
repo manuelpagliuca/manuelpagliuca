@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **pagliuca.manuel@gmail.com**
 
-- 📄 Know about my experiences download my [resumé](https://manuelpagliuca.github.io/uploads/CV_SWE_JUNIOR.pdf)
+- 📄 Know about my experiences download my [resumé](https://manuelpagliuca.github.io/uploads/CV_SWE.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
