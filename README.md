@@ -6,17 +6,17 @@
 <a href="https://instagram.com/pagliucamanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pagliucamanuel" height="30" width="40" /></a>
 
 -->
-- 👨🏻‍💻 I’m currently working as **Software Engineer**
-  
--  🌱 I’m currently practicing **Data Structures and Algorithms** (on LeetCode!).
+👨🏻‍💻 I’m currently working as **Software Engineer**
 
-- 👨‍💻 All of my projects are available at [manuelpagliuca.github.io/projects](https://manuelpagliuca.github.io/#projects)
+🌱 I’m currently practicing **Data Structures and Algorithms** (on LeetCode!)
 
-- 🌍 I got a website at [manuelpagliuca.github.io](https://manuelpagliuca.github.io)
+👨‍💻 All of my projects are available at [manuelpagliuca.github.io/projects](https://manuelpagliuca.github.io/#projects)
 
-- 💬 Ask me about **anything you think I can know!**
+🌍 I got a website at [manuelpagliuca.github.io](https://manuelpagliuca.github.io)
 
-- 📫 How to reach me **pagliuca.manuel@gmail.com**
+💬 Ask me about **anything you think I can know!**
+
+📫 How to reach me **pagliuca.manuel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
